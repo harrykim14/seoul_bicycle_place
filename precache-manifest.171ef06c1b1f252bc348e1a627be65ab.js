@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7673c11fbfa53d9ef66d5a99c077adcc",
+    "revision": "d64d5fedd3688d0d351a1cc73a93e2ad",
     "url": "/seoul_bicycle_place/index.html"
   },
   {
-    "revision": "2e0fee0c66f78b861bfb",
+    "revision": "770376c20863b91cf16d",
     "url": "/seoul_bicycle_place/static/css/main.0886645f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seoul_bicycle_place/static/js/2.cd978828.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e0fee0c66f78b861bfb",
-    "url": "/seoul_bicycle_place/static/js/main.397416b0.chunk.js"
+    "revision": "770376c20863b91cf16d",
+    "url": "/seoul_bicycle_place/static/js/main.9bdeb424.chunk.js"
   },
   {
     "revision": "8c93a873da89f6acf25e",
