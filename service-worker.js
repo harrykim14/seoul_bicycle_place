@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/seoul_bicycle_place/precache-manifest.171ef06c1b1f252bc348e1a627be65ab.js"
+  "/seoul_bicycle_place/precache-manifest.9e434615b203f334bff29221ad66785f.js"
 );
 
 self.addEventListener('message', (event) => {
